@@ -1,0 +1,31 @@
+{
+    "date": "2024-01-29",
+    "theme_weights": {
+        "Service Quality": [
+            "37.5%",
+            52,
+            75
+        ],
+        "Customer Support": [
+            "27.5%",
+            38,
+            87
+        ],
+        "Product Features": [
+            "25%",
+            68,
+            87
+        ],
+        "Billing Issues": [
+            "10%",
+            1,
+            9
+        ],
+        "Reliability": [
+            "15%",
+            7,
+            8
+        ]
+    },
+    "Summary": "The analysis of user comments reveals mixed sentiments across several themes. Service Quality is a major concern, with a significant number of users experiencing technical issues, although there is also appreciation for the system's usability when it functions well. Customer Support is another critical area, with many users dissatisfied with the service received, despite some positive interactions. Product Features are generally well-received, but users are looking for enhancements and more intuitive design. Billing issues and reliability are also noted concerns, indicating areas where the service could improve to enhance customer satisfaction."
+}
